@@ -133,7 +133,7 @@ section {
       rgba(20, 54, 66, 0.7),
       rgba(20, 54, 66, 0.7)
     ),
-    url("../images/Coffe\ Header.png");
+    url("../assets/Coffe Header.png");
   margin-top: -145px;
 }
 
@@ -297,7 +297,7 @@ section {
   position: relative;
   padding: 20px 0;
   border-radius: 20px;
-  background-image: url("../images/Coffee\ background.png");
+  background-image: url("../assets/Coffee background.png");
   background-size: cover;
   transition: 0.4s;
 }
