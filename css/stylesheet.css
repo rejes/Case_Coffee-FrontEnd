@@ -1,0 +1,22 @@
+--header-height: 145px;
+
+/* color */
+--green-color: #0f8b8d;
+--yellow-color: #ec9a29;
+--red-color: #a8201a;
+--old-green: #143642;
+--white-color: #f9fbfe;
+
+/* Font & Typography*/
+--main-font: "Lato", sans-serif;
+--section-title-size: 40px;
+--desc-section-size: 18px;
+
+--menu-name-size: 20px;
+--menu-price-size: 18px;
+
+/* Font Weight */
+--font-bold: 900;
+--font-medium: 800;
+--font-regular: 400;
+}
